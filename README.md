@@ -18,6 +18,13 @@ also, provides a little data analytics get insight of the rate at which your spe
 </details>
 
 
+<span>Before running, Make sure to initialize '.env' file with the variables
+<ul>
+  <li>SECRET_KEY (key larger than 64 bit is encouraged!)</li>
+  <li>ALGORITHM (the hasing algorithm, You can use HS256)</li>
+  <li>TOKEN_EXPIRE_TIME (expiry time of JWT token, a Number string!)</li>
+</ul>
+</span>
 <h5>Run the server with</h5>
 
 ```
