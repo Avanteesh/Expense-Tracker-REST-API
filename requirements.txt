@@ -1,6 +1,6 @@
-fastapi==0.0.6
-sqlmodel==0.0.22
-numpy==1.26.4
-jose==3.3.0
-passlib==1.7.4
+fastapi
+sqlmodel
+numpy
+jose
+passlib
 
