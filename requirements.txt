@@ -1,6 +1,6 @@
 fastapi[standard]
 sqlmodel
 numpy
-jose==3.3.3
+python-jose==3.3.3
 passlib
 
