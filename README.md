@@ -12,7 +12,7 @@ also, provides a little data analytics get insight of the rate at which your spe
 <li>Python framework FastAPI (version 0.0.6 CLI)</li>
 <li>SQLmodel (SQL ORM) using sqlite3</li>
 <li>passlib (Crypto library)</li>
-<li>jose for JSON Web token handling!</li>
+<li>python-jose for JSON Web token handling!</li>
 <li>numpy and random for a little data analytics!</li>
 </ul>
 </details>
