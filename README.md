@@ -25,8 +25,4 @@ also, provides a little data analytics get insight of the rate at which your spe
   <li>TOKEN_EXPIRE_TIME (expiry time of JWT token, a Number string!)</li>
 </ul>
 </span>
-<h5>Run the server with</h5>
-
-```
-$: fastapi dev main.py
-```
+<h5>Run the server with Docker-cli</h5>
